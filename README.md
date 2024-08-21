@@ -8,6 +8,10 @@ https://www.spyfu.com/seo/ranking-history/domain?expandChart=false&searchType=Ne
 quillbot.com 反推导航站
 
 
+https://gumroad.com/?query=ai+tool&sort=most_reviewed
+
+
+
 Group By: Search Volume Group By: Keyword Count
 
 Group By: Search Volume
